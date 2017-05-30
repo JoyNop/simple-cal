@@ -1,5 +1,5 @@
-+# simple-cal
- +my android homework only a simple calculator
+# simple-cal
+my android homework only a simple calculator
 
 一款简单小巧便捷的安卓计算器
 
