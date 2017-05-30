@@ -193,7 +193,7 @@ public class MainActivity extends Activity implements OnPageChangeListener{
 					// 设置对话框标题
 
 					.setMessage(
-							"本软件作者：软件1班 韩锐 1503030103\n rennysky/SimpleCal_Android forked from codingbubble\n 个人网站 HTTPS://QUQ.NAME \n HTTPS://WWW.NOTEX.XYZ")
+							"本软件作者：软件1班 韩锐 1503030103\n Clone with HTTPS Use Git or checkout with SVN using the web URL.\nhttps://github.com/rennysky/simple-cal.git\n 个人网站 HTTPS://QUQ.NAME \n HTTPS://WWW.NOTEX.XYZ")
 					// 设置显示的内容
 
 					.setPositiveButton("退出计算器",
