@@ -1,6 +1,6 @@
 # simple-cal
 my android homework only a simple calculator
->*Thank you very much for Tom's strong support*
+>*Thank you very much for bubble's strong support*
 >
 >codingbubble/SimpleCal_Android
 
