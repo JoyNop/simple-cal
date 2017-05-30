@@ -1,3 +1,6 @@
++# simple-cal
+ +my android homework only a simple calculator
+
 一款简单小巧便捷的安卓计算器
 
 - 支持四则运算，百分号%和多层括号
