@@ -16,6 +16,8 @@ my android homework only a simple calculator
 #v2.2.1.170530
 - 修复bug：只有滑到历史记录界面后的计算才被记录下来
 - 添加相应的menu（author，about，more）
+- 删除复杂冗余的menu文字
+- 修改了正确的版本号
 
 #v2.2.1.170528
 - 修改了获取list item字符串的代码
